@@ -35,7 +35,7 @@
     {
       "id": 5,
       "title": "Post 5",
-      "desc": "La Nissan Motor Co. Ltd. è una casa automobilistica giapponese...",
+      "desc": "La Nissan Motor Co. Ltd. è una casa automobilistica...",
       "brand": "Nissan",
       "price": "40000$",
       "img": "https://upload.wikimedia.org/wikipedia/it/b/b4/Nissan_logo.jpg"
@@ -43,7 +43,7 @@
     {
       "id": 6,
       "title": "Post 6",
-      "desc": "La Bmw è un'azienda tedesca con sede a Monaco di Baviera...",
+      "desc": "La Bmw è un'azienda tedesca...",
       "brand": "BMW",
       "price": "60000$",
       "img": "https://upload.wikimedia.org/wikipedia/it/thumb/f/ff/Logo_della_BMW.svg/1024px-Logo_della_BMW.svg.png"
