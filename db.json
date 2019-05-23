@@ -3,201 +3,161 @@
     {
       "id": 1,
       "title": "Post 1",
-      "desc": "",
-      "brand": "",
-      "price": "12$",
-      "img": "http://lorempixel.com/g/700/400/"
+      "desc": "Lamborghini è un gruppo industriale italiano...",
+      "brand": "Lamborghini",
+      "price": "150000$",
+      "img": "https://upload.wikimedia.org/wikipedia/it/0/02/Logo_della_Lamborghini.svg"
     },
     {
       "id": 2,
       "title": "Post 2",
-      "desc": "Lorem ipsum ",
-      "brand": "gang",
-      "price": "13$",
-      "img": "http://lorempixel.com/g/700/400/"
+      "desc": "Ferrari S.p.A. è una casa automobilistica italiana, fondata da Enzo Ferrari...",
+      "brand": "Ferrari",
+      "price": "130000$",
+      "img": "https://upload.wikimedia.org/wikipedia/it/0/04/Logo_della_Ferrari_S.p.A..svg"
     },
     {
       "id": 3,
       "title": "Post 3",
-      "desc": "Lorem ipsum ",
-      "brand": "iceice",
-      "price": "16$",
-      "img": "https://via.placeholder.com/700x400"
+      "desc": "La Audi è una casa automobilistica tedesca... ",
+      "brand": "Audi",
+      "price": "60000$",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Audi_logo_detail.svg/1920px-Audi_logo_detail.svg.png"
     },
     {
       "id": 4,
       "title": "Post 4",
-      "desc": "Lorem ipsum..",
-      "brand": "mike",
-      "price": "16$",
-      "img": "http://lorempixel.com/g/700/400/"
+      "desc": "Il nome Mercedes identifica un marchio automobilistico fondato nel 1902 dalla Daimler Motoren Gesellschaft...",
+      "brand": "Mercedes",
+      "price": "60000$",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Mercedes_benz_logo1989.png"
     },
     {
       "id": 5,
       "title": "Post 5",
-      "desc": "Lorem ipsum..",
-      "brand": "iceice",
-      "price": "16$",
-      "img": "https://via.placeholder.com/700x400"
+      "desc": "La Nissan Motor Co. Ltd. è una casa automobilistica giapponese...",
+      "brand": "Nissan",
+      "price": "40000$",
+      "img": "https://upload.wikimedia.org/wikipedia/it/b/b4/Nissan_logo.jpg"
     },
     {
       "id": 6,
       "title": "Post 6",
-      "desc": "Lorem ipsum..",
-      "brand": "iceice",
-      "price": "16$",
-      "img": "https://via.placeholder.com/700x400"
+      "desc": "La Bmw è un'azienda tedesca con sede a Monaco di Baviera...",
+      "brand": "BMW",
+      "price": "60000$",
+      "img": "https://upload.wikimedia.org/wikipedia/it/thumb/f/ff/Logo_della_BMW.svg/1024px-Logo_della_BMW.svg.png"
     },
     {
       "id": 7,
       "title": "Post 7",
-      "desc": "Lorem ipsum..",
-      "brand": "gang",
-      "price": "16$",
-      "img": "http://lorempixel.com/g/700/400/"
-    },
-    {
-      "id": 8,
-      "title": "Post 8",
-      "desc": "Lorem ipsum..",
-      "brand": "iceice",
-      "price": "16$",
-      "img": "https://via.placeholder.com/700x400"
-    },
-    {
-      "id": 9,
-      "title": "Post 9",
-      "desc": "Lorem ipsum..",
-      "brand": "iceice",
-      "price": "16$",
-      "img": "http://lorempixel.com/g/700/400/"
-    },
-    {
-      "id": 10,
-      "title": "Post 10",
-      "desc": "Lorem ipsum..",
-      "brand": "daje",
-      "price": "16$",
-      "img": "https://via.placeholder.com/700x400"
+      "desc": "La Porsche è una casa automobilistica tedesca che produce auto sportive....",
+      "brand": "Porsche",
+      "price": "100000$",
+      "img": "https://upload.wikimedia.org/wikipedia/it/thumb/a/a1/Logo_della_Porsche.svg/237px-Logo_della_Porsche.svg.png"
     }
   ],
   "singleitems": [
     {
       "id": 1,
       "title": "Post 1",
-      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-      "brand": "nike",
-      "price": "12$",
-      "img": "http://lorempixel.com/g/700/400/"
+      "desc": "Lamborghini è un gruppo industriale italiano attivo nel comparto automobilistico, costituito nel 1963, la cui sede attuale  è situata a Sant'Agata Bolognese. Deriva dalla prima fabbrica di trattori agricoli costituita da Ferruccio Lamborghini nel 1948.",
+      "brand": "Laborghini",
+      "price": "150000$",
+      "img": "https://upload.wikimedia.org/wikipedia/it/0/02/Logo_della_Lamborghini.svg"
     },
     {
       "id": 2,
       "title": "Post 2",
-      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-      "brand": "gang",
-      "price": "13$",
-      "img": "http://lorempixel.com/g/700/400/"
+      "desc": "Ferrari S.p.A. è una casa automobilistica italiana, fondata da Enzo Ferrari, che produce autovetture sportive d'alta fascia e da gara. Essa gestisce, tra l'altro, la più celebre e titolata squadra sportiva impegnata nelle competizioni automobilistiche del mondo ",
+      "brand": "Ferrari",
+      "price": "130000$",
+      "img": "https://upload.wikimedia.org/wikipedia/it/0/04/Logo_della_Ferrari_S.p.A..svg"
     },
     {
       "id": 3,
       "title": "Post 3",
-      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-      "brand": "iceice",
-      "price": "16$",
-      "img": "https://via.placeholder.com/700x400"
+      "desc": "La Audi è una casa automobilistica tedesca, fondata nel 1909 come August Horch Automobilwerke GmbH e che dal 1910 adottò la nuova denominazione Audi. ",
+      "brand": "Audi",
+      "price": "60000$",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Audi_logo_detail.svg/1920px-Audi_logo_detail.svg.png"
     },
     {
       "id": 4,
       "title": "Post 4",
-      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-      "brand": "mike",
-      "price": "16$",
-      "img": "http://lorempixel.com/g/700/400/"
+      "desc": "Il nome Mercedes identifica un marchio automobilistico fondato nel 1902 dalla Daimler Motoren Gesellschaft ed attivo fino al 1926.",
+      "brand": "Mercedes",
+      "price": "60000$",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Mercedes_benz_logo1989.png"
     },
     {
       "id": 5,
       "title": "Post 5",
-      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-      "brand": "iceice",
-      "price": "16$",
-      "img": "https://via.placeholder.com/700x400"
+      "desc": "La Nissan Motor Co. Ltd. è una casa automobilistica giapponese conosciuta sul mercato italiano soprattutto per i suoi fuoristrada e più recentemente per la vettura da città Nissan Micra e per il crossover Nissan Qashqai",
+      "brand": "Nissan",
+      "price": "40000$",
+      "img": "https://upload.wikimedia.org/wikipedia/it/b/b4/Nissan_logo.jpg"
     },
     {
       "id": 6,
       "title": "Post 6",
-      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-      "brand": "iceice",
-      "price": "16$",
-      "img": "https://via.placeholder.com/700x400"
+      "desc": "La Bmw è un'azienda tedesca con sede a Monaco di Baviera, produttrice di autoveicoli e motoveicoli. La sigla Bmw sta per Bayerische Motoren Werke, in italiano “fabbrica bavarese di motori”.",
+      "brand": "BMW",
+      "price": "60000$",
+      "img": "https://upload.wikimedia.org/wikipedia/it/thumb/f/ff/Logo_della_BMW.svg/1024px-Logo_della_BMW.svg.png"
     },
     {
       "id": 7,
       "title": "Post 7",
-      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-      "brand": "gang",
-      "price": "16$",
-      "img": "http://lorempixel.com/g/700/400/"
-    },
-    {
-      "id": 8,
-      "title": "Post 8",
-      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-      "brand": "iceice",
-      "price": "16$",
-      "img": "https://via.placeholder.com/700x400"
-    },
-    {
-      "id": 9,
-      "title": "Post 9",
-      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-      "brand": "iceice",
-      "price": "16$",
-      "img": "http://lorempixel.com/g/700/400/"
-    },
-    {
-      "id": 10,
-      "title": "Post 10",
-      "desc": ".",
-      "brand": "daje",
-      "price": "16$",
-      "img": "https://via.placeholder.com/700x400"
-    }
-  ],
+      "desc": "La Porsche è una casa automobilistica tedesca che produce auto sportive, con sede presso il quartiere Zuffenhausen della città di Stoccarda. Il capitale sociale dal 2012 è interamente posseduto dalla Volkswagen.",
+      "brand": "Porsche",
+      "price": "100000$",
+      "img": "https://upload.wikimedia.org/wikipedia/it/thumb/a/a1/Logo_della_Porsche.svg/237px-Logo_della_Porsche.svg.png"
+    }  ],
   "herobanner": [
     {
-      "img": "https://via.placeholder.com/900x350"
+      "img": "https://upload.wikimedia.org/wikipedia/it/0/02/Logo_della_Lamborghini.svg"
     },
     {
-      "img": "http://lorempixel.com/g/900/350/"
+      "img": "https://upload.wikimedia.org/wikipedia/it/0/04/Logo_della_Ferrari_S.p.A..svg"
     },
     {
-      "img": "https://via.placeholder.com/900x350"
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Audi_logo_detail.svg/1920px-Audi_logo_detail.svg.png"
     },
     {
-      "img": "http://lorempixel.com/g/900/350/"
+      "img": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Mercedes_benz_logo1989.png"
     },
     {
-      "img": "https://via.placeholder.com/900x350"
+      "img": "https://upload.wikimedia.org/wikipedia/it/b/b4/Nissan_logo.jpg"
+    },
+    {
+      "img": "https://upload.wikimedia.org/wikipedia/it/thumb/f/ff/Logo_della_BMW.svg/1024px-Logo_della_BMW.svg.png"
+    },
+    {
+      "img": "https://upload.wikimedia.org/wikipedia/it/thumb/a/a1/Logo_della_Porsche.svg/237px-Logo_della_Porsche.svg.png"
     }
   ],
   "brands": [
     {
-      "brand": "nike"
+      "brand": "Lamborghini"
     },
     {
-      "brand": "adidas"
+      "brand": "Ferrari"
     },
     {
-      "brand": "iceice"
+      "brand": "Audi"
     },
     {
-      "brand": "mike"
+      "brand": "Mercedes"
     },
     {
-      "brand": "daje"
+      "brand": "Nissan"
     },
     {
-      "brand": "gang"
+      "brand": "BMW"
+    },
+    {
+      "brand": "Porsche"
     }
   ]
 }
