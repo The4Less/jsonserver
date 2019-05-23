@@ -2,19 +2,28 @@
 "items":[{
 "id":1,
 "title":"Post 1",
-"desc":"Lorem ipsum..",
-"brand":"nike",
-"price":"12$",
+"desc":"Macchine",
+"caseauto":"lamborghini",
+"price":"150000$",
 "img":"http://lorempixel.com/g/700/400"
 }
 ],
 "singleitems":[{
     "id":1,
     "title":"Post 1",
-    "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-    "brand":"nike",
+    "desc":"Macchina ad alta velocità",
+    "caseauto":"lamborghini",
     "price":"12$",
     "img":"http://lorempixel.com/g/700/400"
+    }
+],"caseauto":[{
+   "name":"lamborghini"
+    },{
+   "name":"ferrari"
+    },{
+   "name":"porsche"
+    },{
+   "name":"nissan"
     }
 ]
 
